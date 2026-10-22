@@ -1,0 +1,28 @@
+
+
+cloner repo:
+
+git clone <URL_DU_DEPOT>
+
+initialiser depot:
+
+git init
+
+commande de push:
+
+git add .
+
+git commit -m ""
+
+git push
+
+
+creer une branche:
+ 
+cd git-begins
+git switch -c add-create-branch-command
+
+verifier sa branche :
+
+git branch
+
